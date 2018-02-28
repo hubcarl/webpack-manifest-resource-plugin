@@ -1,6 +1,6 @@
 {
   "name": "webpack-manifest-resource-plugin",
-  "version": "4.0.0-beta.1",
+  "version": "4.0.0-beta.2",
   "description": "manifest resource dependencies",
   "keywords": [
     "webpack",
