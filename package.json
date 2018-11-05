@@ -1,6 +1,6 @@
 {
   "name": "webpack-manifest-resource-plugin",
-  "version": "4.2.4",
+  "version": "4.2.5",
   "description": "webpack manifest resource dependencies plugin",
   "keywords": [
     "webpack",
@@ -9,8 +9,7 @@
   ],
   "dependencies": {
     "fs-extra": "^0.30.0",
-    "lodash": ">=3.5 <5",
-    "mutexify": "1.0.1"
+    "lodash": ">=3.5 <5"
   },
   "devDependencies": {
     "eslint": "^3.18.0",
