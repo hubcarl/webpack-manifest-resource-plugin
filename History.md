@@ -1,4 +1,9 @@
 
+4.2.5 / 2018-11-05
+==================
+
+  * fix: javascript heap out of memory https://github.com/easy-team/easywebpack/issues/26
+
 4.2.2 / 2018-03-29
 ==================
 
