@@ -1,6 +1,6 @@
 {
   "name": "webpack-manifest-resource-plugin",
-  "version": "4.2.6",
+  "version": "4.2.7",
   "description": "webpack manifest resource dependencies plugin",
   "keywords": [
     "webpack",
@@ -16,7 +16,7 @@
     "eslint-config-eslint": "^4.0.0"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=8.0.0"
   },
   "scripts": {
     "lint": "eslint .",

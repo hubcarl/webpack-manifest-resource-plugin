@@ -1,4 +1,16 @@
 
+4.2.7 / 2021-06-23
+==================
+
+  * fix: https://github.com/hubcarl/webpack-manifest-resource-plugin/issues/2
+  * fix:DeprecationWarning: chunk.files was changed from Array to Set (using Array method 'reduce' is deprecated)
+
+
+4.2.6 / 2018-11-05
+==================
+
+  * fix: resource repeat
+
 4.2.5 / 2018-11-05
 ==================
 
